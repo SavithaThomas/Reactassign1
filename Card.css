@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+.Cards {
+    display:flex;
+}
+
+.Card1 {
+    
+    margin :50px;
+    margin-left: 70px;;
+    padding : 20px;
+    text-align: center;
+    width: 25%;
+    height: 150px;
+}
+
+.Card2 {
+    
+    margin :50px;
+    padding :20px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+}
